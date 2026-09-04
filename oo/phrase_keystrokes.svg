@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="520" viewBox="0 0 820 520" role="img" aria-labelledby="title desc">
+<title id="title">测试句击键数</title>
+<desc id="desc">测试句：你这个 ui 有问题啊，你在看看，记得调用子代理用 luna</desc>
+<rect width="820" height="520" fill="#ffffff"/>
+<text x="56" y="42" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',Arial,sans-serif" font-size="24" font-weight="500" fill="#243447">测试句击键数</text>
+<text x="56" y="68" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',Arial,sans-serif" font-size="13" fill="#64748b">测试句：你这个 ui 有问题啊，你在看看，记得调用子代理用 luna</text>
+<line x1="100" y1="400.0" x2="720" y2="400.0" stroke="#dbe4ee" stroke-width="1"/>
+<text x="88" y="404.0" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',Arial,sans-serif" font-size="12" fill="#64748b">0.0</text>
+<line x1="100" y1="307.7" x2="720" y2="307.7" stroke="#dbe4ee" stroke-width="1"/>
+<text x="88" y="311.7" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',Arial,sans-serif" font-size="12" fill="#64748b">20.0</text>
+<line x1="100" y1="215.4" x2="720" y2="215.4" stroke="#dbe4ee" stroke-width="1"/>
+<text x="88" y="219.4" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',Arial,sans-serif" font-size="12" fill="#64748b">40.0</text>
+<line x1="100" y1="123.1" x2="720" y2="123.1" stroke="#dbe4ee" stroke-width="1"/>
+<text x="88" y="127.1" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',Arial,sans-serif" font-size="12" fill="#64748b">60.0</text>
+<line x1="100" y1="100" x2="100" y2="400" stroke="#243447" stroke-width="1.2"/>
+<line x1="100" y1="400" x2="720" y2="400" stroke="#243447" stroke-width="1.2"/>
+<text class="axis-title" data-axis="y" transform="translate(18 250.0) rotate(-90)" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',Arial,sans-serif" font-size="13" fill="#243447">击键数</text>
+<text class="axis-title" data-axis="x" x="410.0" y="458" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',Arial,sans-serif" font-size="13" fill="#243447">输入法</text>
+<rect x="212.0" y="141.5" width="92" height="258.5" rx="4" fill="#2f5d8c"/>
+<text x="258.0" y="131.5" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',Arial,sans-serif" font-size="16" fill="#243447">56</text>
+<text x="258.0" y="428" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',Arial,sans-serif" font-size="13" fill="#243447">全拼</text>
+<rect x="364.0" y="196.9" width="92" height="203.1" rx="4" fill="#e58a2b"/>
+<text x="410.0" y="186.9" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',Arial,sans-serif" font-size="16" fill="#243447">44</text>
+<text x="410.0" y="428" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',Arial,sans-serif" font-size="13" fill="#243447">微软双拼</text>
+<rect x="516.0" y="196.9" width="92" height="203.1" rx="4" fill="#4b9b72"/>
+<text x="562.0" y="186.9" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',Arial,sans-serif" font-size="16" fill="#243447">44</text>
+<text x="562.0" y="428" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',Arial,sans-serif" font-size="13" fill="#243447">小鹤双拼</text>
+</svg>

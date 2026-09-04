@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="560" viewBox="0 0 980 560" role="img" aria-labelledby="title desc">
+<title id="title">不同输入法的平均击键数</title>
+<desc id="desc">按字频加权；不含选词动作；每个汉字的双拼码固定为两键</desc>
+<rect width="980" height="560" fill="#ffffff"/>
+<text x="56" y="42" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',Arial,sans-serif" font-size="24" font-weight="500" fill="#243447">不同输入法的平均击键数</text>
+<text x="56" y="68" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',Arial,sans-serif" font-size="13" fill="#64748b">按字频加权；不含选词动作；每个汉字的双拼码固定为两键</text>
+<line x1="100" y1="470.0" x2="900" y2="470.0" stroke="#dbe4ee" stroke-width="1"/>
+<text x="88" y="474.0" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',Arial,sans-serif" font-size="12" fill="#64748b">0.0</text>
+<line x1="100" y1="370.0" x2="900" y2="370.0" stroke="#dbe4ee" stroke-width="1"/>
+<text x="88" y="374.0" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',Arial,sans-serif" font-size="12" fill="#64748b">1.0</text>
+<line x1="100" y1="270.0" x2="900" y2="270.0" stroke="#dbe4ee" stroke-width="1"/>
+<text x="88" y="274.0" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',Arial,sans-serif" font-size="12" fill="#64748b">2.0</text>
+<line x1="100" y1="170.0" x2="900" y2="170.0" stroke="#dbe4ee" stroke-width="1"/>
+<text x="88" y="174.0" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',Arial,sans-serif" font-size="12" fill="#64748b">3.0</text>
+<line x1="100" y1="120" x2="100" y2="470" stroke="#243447" stroke-width="1.2"/>
+<line x1="100" y1="470" x2="900" y2="470" stroke="#243447" stroke-width="1.2"/>
+<text class="axis-title" data-axis="y" transform="translate(18 295.0) rotate(-90)" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',Arial,sans-serif" font-size="13" fill="#243447">平均击键数 / 字</text>
+<text class="axis-title" data-axis="x" x="500.0" y="528" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',Arial,sans-serif" font-size="13" fill="#243447">数据集</text>
+<rect x="149.3" y="172.0" width="48" height="298.0" rx="3" fill="#2f5d8c"/>
+<text x="173.3" y="164.0" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',Arial,sans-serif" font-size="12" fill="#243447">2.98</text>
+<rect x="209.3" y="270.0" width="48" height="200.0" rx="3" fill="#e58a2b"/>
+<text x="233.3" y="262.0" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',Arial,sans-serif" font-size="12" fill="#243447">2.00</text>
+<rect x="269.3" y="270.0" width="48" height="200.0" rx="3" fill="#4b9b72"/>
+<text x="293.3" y="262.0" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',Arial,sans-serif" font-size="12" fill="#243447">2.00</text>
+<text x="233.3" y="498" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',Arial,sans-serif" font-size="13" fill="#243447">Junda 字频</text>
+<rect x="416.0" y="170.1" width="48" height="299.9" rx="3" fill="#2f5d8c"/>
+<text x="440.0" y="162.1" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',Arial,sans-serif" font-size="12" fill="#243447">3.00</text>
+<rect x="476.0" y="270.0" width="48" height="200.0" rx="3" fill="#e58a2b"/>
+<text x="500.0" y="262.0" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',Arial,sans-serif" font-size="12" fill="#243447">2.00</text>
+<rect x="536.0" y="270.0" width="48" height="200.0" rx="3" fill="#4b9b72"/>
+<text x="560.0" y="262.0" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',Arial,sans-serif" font-size="12" fill="#243447">2.00</text>
+<text x="500.0" y="498" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',Arial,sans-serif" font-size="13" fill="#243447">三体合计</text>
+<rect x="682.7" y="181.2" width="48" height="288.8" rx="3" fill="#2f5d8c"/>
+<text x="706.7" y="173.2" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',Arial,sans-serif" font-size="12" fill="#243447">2.89</text>
+<rect x="742.7" y="270.0" width="48" height="200.0" rx="3" fill="#e58a2b"/>
+<text x="766.7" y="262.0" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',Arial,sans-serif" font-size="12" fill="#243447">2.00</text>
+<rect x="802.7" y="270.0" width="48" height="200.0" rx="3" fill="#4b9b72"/>
+<text x="826.7" y="262.0" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',Arial,sans-serif" font-size="12" fill="#243447">2.00</text>
+<text x="766.7" y="498" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',Arial,sans-serif" font-size="13" fill="#243447">福尔摩斯</text>
+<rect x="100" y="515" width="12" height="12" rx="2" fill="#2f5d8c"/>
+<text x="118" y="525" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',Arial,sans-serif" font-size="13" fill="#243447">全拼</text>
+<rect x="168" y="515" width="12" height="12" rx="2" fill="#e58a2b"/>
+<text x="186" y="525" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',Arial,sans-serif" font-size="13" fill="#243447">微软双拼</text>
+<rect x="264" y="515" width="12" height="12" rx="2" fill="#4b9b72"/>
+<text x="282" y="525" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',Arial,sans-serif" font-size="13" fill="#243447">小鹤双拼</text>
+</svg>
