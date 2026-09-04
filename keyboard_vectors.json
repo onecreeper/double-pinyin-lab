@@ -67,7 +67,17 @@
         {"id":"SPACE","label":"拼音 / Space","vector_px":[779,822],"size_px":[564,164]},
         {"id":"PERIOD","label":".","vector_px":[1125,822],"size_px":[122,164]},
         {"id":"ENTER","label":"Enter","vector_px":[1310,822],"size_px":[193,164]}
-      ]
+      ],
+      "logical_key_aliases": {
+        ";": {
+          "physical_key_id": "SHIFT",
+          "label": "分号（大写/Shift层）",
+          "vector_px": [96, 630],
+          "layer": "uppercase",
+          "confidence": "user_confirmed",
+          "note": "按物理触点计距；是否额外计入切换层动作由统计口径决定。"
+        }
+      }
     },
     "apple_magic_keyboard": {
       "source_image_size_px": [535, 219],
